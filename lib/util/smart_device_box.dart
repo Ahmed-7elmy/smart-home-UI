@@ -22,7 +22,7 @@ class SmartDeviceBox extends StatelessWidget {
       padding: const EdgeInsets.all(15.0),
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.grey[400],
+          color: powerOn ? Color.fromARGB(44, 164, 167, 189) : Colors.grey[700],
           borderRadius: BorderRadius.circular(12 * 2),
         ),
         child: Column(
