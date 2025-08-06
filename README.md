@@ -1,6 +1,7 @@
 # modernsmarthome
 
 ## 🚀 Project Overview
+![App Screenshot](lib\icons\screen.png)
 
 **modernsmarthome** is a Flutter application focused on providing a simple user interface for smart home management. While it offers intuitive controls and basic device integration, its primary goal is to deliver a clean and straightforward experience for users to manage lighting, climate, security, and entertainment systems from their mobile device.
 
@@ -14,6 +15,7 @@
 ### 🏡 Why modernsmarthome?
 
 Whether you're upgrading your home or building a new one, **modernsmarthome** provides the flexibility and power to make your environment smarter, safer, and more comfortable.
+
 
 ---
 
